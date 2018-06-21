@@ -1,9 +1,6 @@
 fn main() {
-    // comment line 1
-    /* 
-        multi
-        line
-        comment
-    */ 
-    println!("Hello, world!");
+
+    let x = 42;
+
+    println!("The answer to the ultimate question of life, the universe and everything is {}",x);
 }
