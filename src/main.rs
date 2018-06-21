@@ -25,4 +25,12 @@ fn main() {
     }
 
     println!("finished while");
+
+    let r: i8 = 64;
+
+    for index in 1..r{
+        println!("index {} is ",index)
+    }
+
+    println!("finished for loop");
 }
